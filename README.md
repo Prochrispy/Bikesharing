@@ -40,3 +40,4 @@ Two additional plots will be added to show the diversity of riders per gender an
 ![](Images/Gender_breakdown.png)
 
 ![](Images/Repairs.png)
+
